@@ -12,7 +12,7 @@ const playlist = [
     title: "City Of Stars",
     artist: "Ryan Gosling & Emma Stone",
     cover: "https://i.scdn.co/image/ab67616d0000b2730bdf4dd39843ad48c5b66bc4", 
-    src: "/audio/City Of Stars.mp3" 
+    src: "/audio/cityofstars.mp3" 
   },
   {
     title: "Mia & Sebastian’s Theme",
